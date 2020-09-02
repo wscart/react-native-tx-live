@@ -8,6 +8,18 @@ TxLive SDK for React Native.
 npm install react-native-tx-live
 ```
 
+## Install & Usage
+
+```bash
+$ npm install react-native-tx-live
+```
+
+or
+
+```bash
+yarn add react-native-tx-live
+```
+
 ## Usage
 
 ```js
